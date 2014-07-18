@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 6256,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "platos principales.html",
+			"settings":
+			{
+				"buffer_size": 4621,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "recetas dulces.html",
+			"settings":
+			{
+				"buffer_size": 4059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 9389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "galería de fotos.html",
+			"settings":
+			{
+				"buffer_size": 4600,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "recetas saladas.html",
+			"settings":
+			{
+				"buffer_size": 4543,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Federico/Desktop/path.txt",
+		"/C/backup fede/Plantillas/scenic_photo/css/style.css",
+		"/C/backup fede/Fede/Para destruir/index (2).html",
+		"/C/backup fede/Fede/Para destruir/indexx.html",
+		"/C/backup fede/Fede/Para destruir/index.html",
+		"/C/backup fede/Fede/Para destruir/css/stylee.css",
+		"/C/Users/Federico/Desktop/maquetado julio 1.txt",
+		"/C/Users/Federico/Desktop/Pagina_maquetado/Home.html",
+		"/C/Users/Federico/Desktop/Pagina_maquetado/index.html",
+		"/C/backup fede/Fede/maquetado/receta.html.txt",
+		"/C/backup fede/Fede/index.html",
+		"/C/backup fede/Fede/maquetado.HTML",
+		"/C/backup fede/Fede/maquetado/index.html",
+		"/C/backup fede/Fede/Para destruir/galería de fotos.html",
+		"/C/backup fede/Fede/Para destruir/recetas dulces.html",
+		"/C/backup fede/Fede/Para destruir/recetas saladas.html",
+		"/C/backup fede/Fede/Para destruir/platos principales.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"nav",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contact.php",
+					"settings":
+					{
+						"buffer_size": 6256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1802,
+								1802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "platos principales.html",
+					"settings":
+					{
+						"buffer_size": 4621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								1570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "recetas dulces.html",
+					"settings":
+					{
+						"buffer_size": 4059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 9389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2311,
+								2311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3096.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "galería de fotos.html",
+					"settings":
+					{
+						"buffer_size": 4600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "recetas saladas.html",
+					"settings":
+					{
+						"buffer_size": 4543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
